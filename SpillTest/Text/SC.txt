@@ -1,0 +1,37 @@
+<center>
+You wake up in what you guess is a solitary confinement room. You cannot recall why<br>
+you're here, nor the events of the previous day, or any day before it for that matter.<br><br>
+</center>
+
+END 	- START; DESC:
+<center>
+You look around the room and see that there's really not much to note:<br>
+After all, it <i>is</i> supposed to be a room void of anything one could interact with and a door with<br>
+no handle on the inside. The walls are a pale grey, perhaps they once upon a time could have<br>
+been called white. The room is pretty run-down, in one of the corners you see some dried, bloody<br>
+marks on the wall. You can see a small crack in between the floor tiles.
+ </center>
+
+ 
+END 	- START; BLOODY MARKS:
+<center>
+You walk over to the corner and take a look at the bloody marks... The blood has long since<br>
+dried. It appears that whoever was its owner, repeatedly hit their head against the wall. To<br>
+the left of the blood hit-mark, the blood forms some strange symbols, you are not entirely<br>
+sure of what to make of them. The more you stare at them, the less sane you feel.
+</center>
+
+END 	- START; HAS KNIFE:
+<center>
+You stick the knife between the sharp edges of the crack and underneath the floor-tile, after<br>
+lifting it, you remove the tile and find a small #### beneath it. Perhaps the tile didn't<br>
+break due to being worn out?
+</center>
+  
+END 	- START; NO KNIFE:
+<center>
+You stick your fingers into the crack and try to lift it, you barely manage to touch the<br>
+tile before cutting your fingers on its sharp edges. You doubt that you'll be able to budge<br>
+it with your bare hands.
+</center>
+END

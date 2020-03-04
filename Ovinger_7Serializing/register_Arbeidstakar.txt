@@ -1,0 +1,10 @@
+Ole_Olsen 243 100.00 37.5 0.20
+Lise_Jensen 244 150.00 37.6 0.40
+Ola_Normann 245 90.50 37.4 0.15
+Ole_Olsen 246 100.00 37.51 0.20
+Lise_Jensen 247 150.00 40.0 0.40
+Ola_Normann 248 90.50 0 0.15
+Ole_Olsen 249 100.00 0 0.20
+Lise_Jensen 250 150.00 0.0 0.40
+Ola_Normann 251 90.50 50.0 0.15
+Ole_Olsen 252 100.00 37.5 0.20

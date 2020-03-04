@@ -1,0 +1,5 @@
+1 uten_navn 0.00
+11 Melk 22.50
+12 Tomat 29.50
+13 aaaa 19.50
+14 bbbb 23.50
